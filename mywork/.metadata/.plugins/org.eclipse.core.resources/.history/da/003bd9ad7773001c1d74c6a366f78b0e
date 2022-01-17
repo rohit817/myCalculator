@@ -1,0 +1,33 @@
+
+
+//concat()// toUpperCase()//toLowerCase()//substring()
+//				reverse()// indexOf()//lastindexOf()//charAt()
+//				toCharArray() // split()// trim()// startsWith()//
+//				endsWith()// toString()//
+//			boolean	<--equals()//equalsIgnoreCase()--> equals the object both 
+
+
+
+
+import java.util.*;
+public class StringDemo {
+
+	public static void main(String[] args) {
+		String str = " Hello";
+		String str2 = " Apisero! ";
+		StringBuilder sb = new StringBuilder();
+		sb = sb.append(str + str2);
+		System.out.println("Concatination--> "+str.concat(str2));
+		System.out.println("Lower_Case--> "+ str.toLowerCase());
+		System.out.println("Upper_Case--> "+ str.toUpperCase());
+		System.out.println("Reverse-->" + sb.reverse());//StringBUilder
+		System.out.println(str2.substring(2,7));
+		System.out.println(str2.lastIndexOf("ero"));
+		System.out.println(str2.indexOf("ero"));
+		
+		
+		
+
+	}
+
+}

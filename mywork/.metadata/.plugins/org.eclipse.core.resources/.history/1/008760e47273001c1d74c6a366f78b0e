@@ -1,0 +1,20 @@
+
+public class CalculatorMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Calculator cSum=new Calculator();
+
+		Calculator cSub=new Calculator();
+
+		Calculator cMul=new Calculator();
+
+		Calculator cDiv=new Calculator();
+
+		cSum.Sum();
+		cSub.Substraction();
+		cMul.Multiplication();
+		cDiv.Division();
+	}
+
+}

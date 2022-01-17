@@ -1,0 +1,29 @@
+
+public class Calculator {
+public void Sum() {
+	int a=3;
+	int b=5;
+	int c=a+b;
+	System.out.println(c);
+	
+	
+}
+public void Division() {
+	int a=3;
+	int b=5;
+	int c=a/b;
+	System.out.println(c);
+}
+public void Multiplication() {
+	int a=3;
+	int b=5;
+	int c=a*b;
+	System.out.println(c);
+}
+public void Substraction() {
+	int a=3;
+	int b=5;
+	int c=b-a;
+	System.out.println(c);
+}
+}

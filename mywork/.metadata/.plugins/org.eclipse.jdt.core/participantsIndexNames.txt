@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\mywork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1951886.index
+\RESTDEMO2\src\main\java

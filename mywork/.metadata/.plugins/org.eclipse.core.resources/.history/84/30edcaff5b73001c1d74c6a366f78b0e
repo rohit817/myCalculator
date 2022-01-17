@@ -1,0 +1,28 @@
+
+public class Calculator {
+public int Sum() {
+	int a=3;
+	int b=5;
+	int c=a+b;
+	return c;
+	
+}
+public float Division() {
+	int a=3;
+	int b=5;
+	int c=a/b;
+	return c;
+}
+public int Multiplication() {
+	int a=3;
+	int b=5;
+	int c=a*b;
+	return c;
+}
+public int Substraction() {
+	int a=3;
+	int b=5;
+	int c=b-a;
+	return c;
+}
+}

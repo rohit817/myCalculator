@@ -1,0 +1,26 @@
+
+
+//concat()// toUpperCase()//toLowerCase()//substring()
+//				reverse()// indexOf()//lastindexOf()//charAt()
+//				toCharArray() // split()// trim()// startsWith()//
+//				endsWith()// toString()//
+//			boolean	<--equals()//equalsIgnoreCase()--> equals the object both 
+
+
+
+
+import java.util.*;
+public class StringDemo {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String str = " Hello";
+		String str2 = " Apisero! ";
+		System.out.println("Concatination--> "+str.concat(str2));
+		
+		
+		
+
+	}
+
+}
